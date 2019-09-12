@@ -1,2 +1,2 @@
-# Binary_Classification-Case_1-Level_E0
-Repository for Machine Learning and Deep Learning Models to Solve a Binary Classification Problem
+# Binary Classification
+Repository for Machine Learning and Deep Learning Models to Solve a Binary Classification Problem. The objective of case study is to compare various models with minimal feature engineering techniques.
